@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>Dumbbell Days</title>
+  <rect width="512" height="512" rx="112" fill="#141715"/>
+  <path d="M95 219v74m39-116v158m244-158v158m39-116v74M134 256h244" fill="none" stroke="#ddff39" stroke-linecap="round" stroke-width="43"/>
+  <circle cx="256" cy="256" r="25" fill="#f6f5f0"/>
+</svg>
