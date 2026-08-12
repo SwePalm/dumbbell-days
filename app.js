@@ -53,7 +53,27 @@ const formImages = {
  'Keystone Dumbbell Deadlift':'keystone-dumbbell-deadlift-form.png',
  'Sissy Squat':'sissy-squat-form.png',
  'Dumbbell Lunges':'dumbbell-lunge-form.png',
- 'Free Squats':'free-squat-form.png'
+ 'Free Squats':'free-squat-form.png',
+ 'Dumbbell Bench Press':'dumbbell-bench-press-form.png',
+ 'Chest Fly':'chest-fly-form.png',
+ 'Dumbbell Reverse-grip Bench':'dumbbell-reverse-grip-bench-form.png',
+ 'Front Raise':'front-raise-form.png',
+ 'Lateral Raise':'lateral-raise-form.png',
+ 'Dumbbell Overhead Press':'dumbbell-overhead-press-form.png',
+ 'Decline Dumbbell Triceps Extension':'decline-dumbbell-triceps-extension-form.png',
+ 'Bar Dip':'bar-dip-form.png',
+ 'Tate Press':'tate-press-form.png',
+ 'Dumbbell Bent Row':'dumbbell-bent-row-form.png',
+ 'Pull-up':'pull-up-form.png',
+ 'Seated Dumbbell Shrug':'seated-dumbbell-shrug-form.png',
+ 'Reverse Fly':'reverse-fly-form.png',
+ 'Dumbbell Pullover':'dumbbell-pullover-form.png',
+ 'Dumbbell Curl':'dumbbell-curl-form.png',
+ 'Zottman Curl':'zottman-curl-form.png',
+ 'Incline Dumbbell Curl':'incline-dumbbell-curl-form.png',
+ 'Crunch':'crunch-form.png',
+ 'Russian Twist':'russian-twist-form.png',
+ 'Side Bend':'side-bend-form.png'
 };
 let week = Number(localStorage.getItem('dd-week') || 1), selected = null;
 let expandedBlocks = new Set();
