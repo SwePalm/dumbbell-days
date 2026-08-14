@@ -1,4 +1,4 @@
-const CACHE = 'dumbbell-days-v7';
+const CACHE = 'dumbbell-days-v8';
 const ASSETS = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './icon.svg', './icons/icon-192.png', './icons/icon-512.png',
   './assets/calf-raise-form.png', './assets/keystone-dumbbell-deadlift-form.png', './assets/sissy-squat-form.png', './assets/dumbbell-lunge-form.png', './assets/free-squat-form.png',
   './assets/dumbbell-bench-press-form.png', './assets/chest-fly-form.png', './assets/dumbbell-reverse-grip-bench-form.png', './assets/front-raise-form.png', './assets/lateral-raise-form.png', './assets/dumbbell-overhead-press-form.png',

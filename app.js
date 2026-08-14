@@ -17,7 +17,7 @@ const plans = {
  shoulders: { A:[['Front Raise','6 reps · 3 sets']], B:[['Front Raise','6 reps · 3 sets'],['Lateral Raise','12 reps · 2 sets']], C:[['Front Raise','6 reps'],['Lateral Raise','12 reps'],['Dumbbell Overhead Press','40 reps']] },
  triceps: { A:[['Decline Dumbbell Triceps Extension','12 reps · 3 sets']], B:[['Decline Dumbbell Triceps Extension','12 reps · 2 sets'],['Bar Dip','6 reps · 2 sets']], C:[['Bar Dip','6 reps'],['Decline Dumbbell Triceps Extension','6 reps'],['Tate Press','40 reps']] },
  biceps: { A:[['Dumbbell Curl','6 reps · 3 sets']], B:[['Dumbbell Curl','6 reps · 3 sets'],['Zottman Curl','12 reps · 2 sets']], C:[['Dumbbell Curl','6 reps'],['Zottman Curl','12 reps'],['Incline Dumbbell Curl','40 reps']] },
- back: { A:[['Dumbbell Bent Row','6 reps · 3 sets']], B:[['Pull-up','6 reps · 3 sets'],['Dumbbell Bent Row','6 reps · 3 sets'],['Seated Dumbbell Shrug','12 reps · 2 sets']], C:[['Pull-up','12 reps'],['Dumbbell Bent Row','6 reps'],['Reverse Fly','12 reps'],['Dumbbell Pullover','40 reps'],['Seated Dumbbell Shrug','12 reps · 2 sets']] },
+ back: { A:[['Dumbbell Bent Row','6 reps · 3 sets']], B:[['Supported Dumbbell Row','6 reps · 3 sets'],['Dumbbell Bent Row','6 reps · 3 sets'],['Seated Dumbbell Shrug','12 reps · 2 sets']], C:[['Supported Dumbbell Row','12 reps'],['Dumbbell Bent Row','6 reps'],['Reverse Fly','12 reps'],['Dumbbell Pullover','40 reps'],['Seated Dumbbell Shrug','12 reps · 2 sets']] },
  abs: { A:[['Crunch','Choose a comfortable set'],['Russian Twist','Choose a comfortable set'],['Side Bend','Choose a comfortable set']] },
  calves: { A:[['Calf Raise','Choose a comfortable set']] }
 };
@@ -36,7 +36,7 @@ const tips = {
  'Bar Dip':['Shoulders down, chest proud','Support yourself with straight arms. Lower only as far as your shoulders feel comfortable, then press the bars away. Avoid dropping into the bottom.'],
  'Tate Press':['Dumbbells meet above the chest','Lie on a bench. Start with dumbbells over your chest, palms facing your feet; lower toward the chest by bending elbows out, then extend back up. Light weight first.'],
  'Dumbbell Bent Row':['Row toward your hip','Hinge until your torso is near parallel to the floor. Keep your spine long, pull elbows toward the hips, pause, then lower fully.'],
- 'Pull-up':['Start from a controlled hang','Grip the bar, set your shoulders down, pull your chest toward the bar, then lower under control. Use assistance if form fades.'],
+ 'Supported Dumbbell Row':['Row toward your hip','Place one hand and the same-side knee on a stable bench. Keep your back long and row the dumbbell toward your hip; lower it slowly without twisting the torso.'],
  'Seated Dumbbell Shrug':['Straight up and down','Sit tall with dumbbells at your sides. Lift shoulders toward ears, pause briefly, and lower slowly. Do not roll the shoulders.'],
  'Reverse Fly':['Open wide, stay light','Hinge forward and keep a gentle elbow bend. Sweep arms out until in line with your body; focus on the back of the shoulders.'],
  'Dumbbell Pullover':['Ribs down, arc behind you','Lie across or along a bench. With softly bent elbows, lower one dumbbell behind your head only as far as shoulders allow, then pull it back over chest.'],
@@ -64,7 +64,7 @@ const formImages = {
  'Bar Dip':'bar-dip-form.png',
  'Tate Press':'tate-press-form.png',
  'Dumbbell Bent Row':'dumbbell-bent-row-form.png',
- 'Pull-up':'pull-up-form.png',
+ 'Supported Dumbbell Row':'pull-up-form.png',
  'Seated Dumbbell Shrug':'seated-dumbbell-shrug-form.png',
  'Reverse Fly':'reverse-fly-form.png',
  'Dumbbell Pullover':'dumbbell-pullover-form.png',
